@@ -1,8 +1,8 @@
 const yargs = require('yargs');
 const axios = require('axios');
 
-const defaultAddress = require('./default-address.js');
-const printTemperature = require('./print-temperature.js');
+const defaultAddress = require('./default-address/default-address.js');
+const printTemperature = require('./print-temperature/print-temperature.js');
 
 const argv = yargs
   .options({
