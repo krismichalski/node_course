@@ -31,7 +31,7 @@ Use `node app.js --help` to read how to use.
 
 Webserver created using [Express](http://expressjs.com) and [Handlebars](http://handlebarsjs.com/).
 
-Run command: `node server.js -e js,hbs`.
+Run command: `npm start`.
 
 # Copyright
 © [Krzysztof Michalski](https://github.com/nooulaif)
