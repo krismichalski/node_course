@@ -2,7 +2,7 @@
 
 Small projects created for learning purposes of Node.js
 
-# Projects description
+# Projects descriptions
 
 ## hello-world
 
@@ -23,7 +23,7 @@ Comes in two versions.
 One uses [request](https://npmjs.com/package/request) package and callbacks.
 Other uses [axios](https://npmjs.com/package/axios) package and promises.
 
-Version using promises also have the ability to save default location and convert temperature to Celsius.
+Version which use promises also have the ability to save default location and convert temperature to Celsius.
 
 Use `node app.js --help` to read how to use.
 
