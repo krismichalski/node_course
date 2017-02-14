@@ -31,7 +31,7 @@ Use `node app.js --help` to read how to use.
 
 Webserver created using [Express](http://expressjs.com) and [Handlebars](http://handlebarsjs.com/).
 
-Run command: `npm start`.
+Run command: `npm start` or visit [https://warm-garden-10367.herokuapp.com/](https://warm-garden-10367.herokuapp.com/) to see site.
 
 # Copyright
 © [Krzysztof Michalski](https://github.com/nooulaif)
