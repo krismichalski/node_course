@@ -27,6 +27,8 @@ Version which use promises also have the ability to save default location and co
 
 Use `node app.js --help` to read how to use.
 
+Caution: You will need to change `apiKey` variable to access Dark Sky API.
+
 ## node-webserver
 
 Webserver created using [Express](http://expressjs.com) and [Handlebars](http://handlebarsjs.com/).
