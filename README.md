@@ -35,5 +35,9 @@ Webserver created using [Express](http://expressjs.com) and [Handlebars](http://
 
 Run command: `npm start` or visit [https://warm-garden-10367.herokuapp.com/](https://warm-garden-10367.herokuapp.com/) to see site.
 
+## node-tests
+
+Playground for learning how to test with Mocha, Express and Spies.
+
 # Copyright
 © [Krzysztof Michalski](https://github.com/nooulaif)
